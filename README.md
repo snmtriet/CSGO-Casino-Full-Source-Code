@@ -8,6 +8,9 @@
 - 🛒 Interested in purchasing this website? Contact me!
 
 - 📫 How to reach me **snmtriet@gmail.com**
+<p align="left">
+<a href="https://t.me/snmtriet" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="snmtriet" height="30" width="30" /></a>
+</p>
 
 
 
