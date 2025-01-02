@@ -5,6 +5,8 @@
 
 - I’m currently working on a personal project: [CSGO Case Opening website.](https://csgoempire-vue.vercel.app)
 
+- 🛒 Interested in purchasing this website? Contact me!
+
 - 📫 How to reach me **snmtriet@gmail.com**
 
 
