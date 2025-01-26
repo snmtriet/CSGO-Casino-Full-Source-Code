@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Profile%20views&color=0e75b6&style=flat" alt="snmtriet" /> </p>
 
-- I’m currently working on a personal project: [CSGO Case Opening website.](https://csgoempire-vue.vercel.app)
+- I’m currently working on personal projects: [CSGO Case Opening](https://csgomt.vercel.app) and [Skin Club Clone](https://skinclub-clone.vercel.app).
 
 - 🛒 Interested in purchasing this website? Contact me!
 
