@@ -10,7 +10,7 @@
 
 ## 💌 Purchase & Pricing
 Looking for a **CSGO case opening website**, **betting UI**, or **skin trading platform**? My templates are available for sale. 
-- **Pricing starts at 1XXX** (depending on complexity and customization needs).
+- **Pricing starts at $1XXX** (depending on complexity and customization needs).
 - Contact me for custom modifications or exclusive templates.
 
 ## 🌐 Live Demos
