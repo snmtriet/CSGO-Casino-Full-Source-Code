@@ -1,5 +1,5 @@
 <h1 align="center">🌟 CSGO Betting & Case Opening Website Templates 🌟</h1>
-<h3 align="center">Professional Frontend Templates for CSGO Betting, Case Opening, and Skin Trading Platforms</h3>
+<h3 align="center">Professional Frontend Templates for CSGO Betting, Case Opening</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Profile%20views&color=0e75b6&style=flat" alt="snmtriet" /> </p>
 
