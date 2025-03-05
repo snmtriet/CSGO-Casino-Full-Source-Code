@@ -1,7 +1,7 @@
 <h1 align="center">🌟 CSGO Betting & Case Opening Website Templates 🌟</h1>
 <h3 align="center">Professional Frontend Templates for CSGO Betting, Case Opening</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Profile%20views&color=0e75b6&style=flat" alt="snmtriet" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Visitors&color=0e75b6&style=flat" alt="snmtriet" /> </p>
 
 ## 💪 Why Choose My Templates?
 - 💡 **High-Quality UI/UX** – Modern and responsive design optimized for performance.
