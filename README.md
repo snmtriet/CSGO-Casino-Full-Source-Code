@@ -1,21 +1,40 @@
-<h1 align="center">Hello 👋, I'm Su Nguyen Minh Triet</h1>
-<h3 align="center">A passionate front-end developer based in Vietnam!</h3>
+<h1 align="center">🌟 CSGO Betting & Case Opening Website Templates 🌟</h1>
+<h3 align="center">Professional Frontend Templates for CSGO Betting, Case Opening, and Skin Trading Platforms</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Profile%20views&color=0e75b6&style=flat" alt="snmtriet" /> </p>
 
-## 🚀 About Me
-- 🔥 I’m currently working on personal projects.
-- 🛒 Interested in purchasing one of my websites? Contact me!
-- 📫 How to reach me: **snmtriet@gmail.com**
+## 💪 Why Choose My Templates?
+- 💡 **High-Quality UI/UX** – Modern and responsive design optimized for performance.
+- ⚡ **Fast & Lightweight** – Clean code with best frontend practices.
+- 🌟 **Customizable** – Easily modify colors, layouts, and animations.
 
-## 🌐 My Projects
-Here are some of the websites I have worked on:
+## 💌 Purchase & Pricing
+Looking for a **CSGO case opening website**, **betting UI**, or **skin trading platform**? My templates are available for sale. 
+- **Pricing starts at $XX** (depending on complexity and customization needs).
+- Contact me for custom modifications or exclusive templates.
 
-- 🎰 **[CSGO Case Opening](https://csgomt.vercel.app)**
-- 🎮 **[Skin.Club Clone](https://skinclub-clone.vercel.app)**
+## 🌐 Live Demos
+Check out some of my work in action:
+- 🎯 **[CSGO Case Opening Website](https://csgomt.vercel.app)** – Clean and interactive case opening system.
+- 🎮 **[Skin.Club Clone](https://skinclub-clone.vercel.app)** – High-quality clone with modern animations.
 
-## 📩 Contact Me
+## 📞 Contact Me
+Looking to buy a template or need a custom CSGO website? Let's talk!
+
+### 📧 Contact via Email
+📩 **Email:** [snmtriet@gmail.com](mailto:snmtriet@gmail.com)
+
+### 📲 Contact via Telegram
+✈️ **Telegram:** [@snmtriet](https://t.me/snmtriet)
+
+### 🔗 Contact via LinkedIn
+💼 **LinkedIn:** [My Profile](https://linkedin.com/in/snmtriet)
+
 <p align="left">
-<a href="https://t.me/snmtriet" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="snmtriet" height="30" width="30" /></a>
+<a href="mailto:snmtriet@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://t.me/snmtriet" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/snmtriet" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" /></a>
 </p>
+
+📢 **Get a high-quality CSGO website today! Contact me for more details.**
 
