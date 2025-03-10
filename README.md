@@ -1,40 +1,33 @@
-<h1 align="center">🌟 CSGO Betting & Case Opening Website Templates 🌟</h1>
-<h3 align="center">Professional Frontend Templates for CSGO Betting, Case Opening</h3>
+# CSGO Casino - Full Source Code (Frontend & Backend)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Visitors&color=0e75b6&style=flat" alt="snmtriet" /> </p>
+### 🚀 Purchase a professional CSGO Casino website source code
 
-## 💪 Why Choose My Templates?
-- 💡 **High-Quality UI/UX** – Modern and responsive design optimized for performance.
-- ⚡ **Fast & Lightweight** – Clean code with best frontend practices.
-- 🌟 **Customizable** – Easily modify colors, layouts, and animations.
+This is a **fully developed from scratch** source code, including Frontend, Backend, and Backoffice, for a modern and responsive CSGO Casino website. Inspired by major platforms like CSGOEmpire and Skin.Club, this package is a perfect solution for your CSGO gambling project.
 
-## 💌 Purchase & Pricing
-Looking for a **CSGO case opening website**, **betting UI**? My templates are available for sale. 
-- **Pricing starts at $1XXX** (depending on complexity and customization needs).
-- Contact me for custom modifications or exclusive templates.
+## 🔥 Key Features
 
-## 🌐 Live Demos
-Check out some of my work in action:
-- 🎯 **[CSGO Case Opening Website](https://csgomt.vercel.app)** – Clean and interactive case opening system.
-- 🎮 **[Skin.Club Clone](https://skinclub-clone.vercel.app)** – High-quality clone with modern animations.
+🎮 **Live Demo**
 
-## 📞 Contact Me
-Looking to buy a template or need a custom CSGO website? Let's talk!
+- [CSGO MT](https://csgomt.vercel.app)
+- [Skin MT](https://skinmt.vercel.app)
 
-### 📧 Contact via Email
-📩 **Email:** [snmtriet@gmail.com](mailto:snmtriet@gmail.com)
+🚫 **No deposit and withdrawal system included (you can further develop these features as needed)**
 
-### 📲 Contact via Telegram
-✈️ **Telegram:** [@snmtriet](https://t.me/snmtriet)
+- **Stunning and modern UI**, fully responsive
+- **Smooth animations**, optimized UX/UI
+- **Fully integrated game modes** like Roulette, Case Battle, Case Opening, Coinflip and more
+- **Powerful Backend**, with flexible API support
+- **Comprehensive Backoffice (BO)** for managing users, transactions, and game settings
+- **High security**, performance optimized
+- **Built with the latest web technologies**
+- **Fully built from scratch, not based on any pre-made templates**
 
-### 🔗 Contact via LinkedIn
-💼 **LinkedIn:** [My Profile](https://linkedin.com/in/snmtriet)
+## 🛒 Purchase Source Code
 
-<p align="left">
-<a href="mailto:snmtriet@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://t.me/snmtriet" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/snmtriet" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" /></a>
-</p>
+You can purchase this full source code on GitHub or contact me for more details.
 
-📢 **Get a high-quality CSGO website today! Contact me for more details.**
+📩 Contact: [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/snmtriet)
 
+## 📝 Note
+
+This is a complete source code package, including Frontend, Backend, and Backoffice. You only need to configure and deploy it for use.
