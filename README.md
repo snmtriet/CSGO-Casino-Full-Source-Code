@@ -1,5 +1,7 @@
 # CSGO Casino - Full Source Code (Frontend & Backend)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Visitors&color=0e75b6&style=flat" alt="snmtriet" /> </p>
+
 ### 🚀 Purchase a professional CSGO Casino website source code
 
 This is a **fully developed from scratch** source code, including Frontend, Backend, and Backoffice, for a modern and responsive CSGO Casino website. Inspired by major platforms like CSGOEmpire and Skin.Club, this package is a perfect solution for your CSGO gambling project.
