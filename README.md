@@ -11,7 +11,7 @@ This is a **fully developed from scratch** source code, including Frontend, Back
 🎮 **Live Demo**
 
 - [CSGO MT](https://csgomt.vercel.app)
-- [Skin MT](https://skinmt.vercel.app)
+- [Skin MT](https://skinmt.xyz)
 
 🚫 **No deposit and withdrawal system included (you can further develop these features as needed)**
 
