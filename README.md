@@ -4,14 +4,13 @@
 
 ### 🚀 Purchase a professional CSGO Casino website source code
 
-This is a **fully developed from scratch** source code, including Frontend, Backend, and Backoffice, for a modern and responsive CSGO Casino website. Inspired by major platforms like CSGOEmpire and Skin.Club, this package is a perfect solution for your CSGO gambling project.
+This is a **fully developed from scratch** source code, including Frontend, Backend, and Backoffice, for a modern and responsive CSGO Casino website. Inspired by major platforms like CSGOEmpire, this package is a perfect solution for your CSGO gambling project.
 
 ## 🔥 Key Features
 
 🎮 **Live Demo**
 
 - [CSGO MT](https://csgomt.vercel.app)
-- [Skin MT](https://skinmt.xyz)
 
 🚫 **No deposit and withdrawal system included (you can further develop these features as needed)**
 
