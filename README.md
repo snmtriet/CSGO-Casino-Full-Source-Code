@@ -1,34 +1,33 @@
-# CSGO Casino - Full Source Code (Frontend & Backend)
+# 🎰 CSGO Casino – Full Source Code (Frontend & Backend)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Visitors&color=0e75b6&style=flat" alt="snmtriet" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Visitors&color=0e75b6&style=flat" alt="Visitors Badge" />
+</p>
 
-### 🚀 Purchase a professional CSGO Casino website source code
+## 🚀 Overview
 
-This is a **fully developed from scratch** source code, including Frontend, Backend, and Backoffice, for a modern and responsive CSGO Casino website. Inspired by major platforms like CSGOEmpire, this package is a perfect solution for your CSGO gambling project.
+This is a **complete CSGO Casino source code**, fully developed from scratch and including **Frontend, Backend, and Backoffice**.  
+It is designed to be modern, responsive, and scalable — a solid foundation for your CSGO gambling platform.
 
-## 🔥 Key Features
+---
 
-🎮 **Live Demo**
+## 🔥 Live Demo
 
-- [CSGO MT](https://csgomt.vercel.app)
+- 🎮 **Version 1**: [CSGO MT v1](https://csgomt.vercel.app)  
+- 🎮 **Version 2**: [CSGO MT v2](https://csgo.website)  
 
-🚫 **No deposit and withdrawal system included (you can further develop these features as needed)**
+---
 
-- **Stunning and modern UI**, fully responsive
-- **Smooth animations**, optimized UX/UI
-- **Fully integrated game modes** like Roulette, Case Battle, Case Opening, Coinflip and more
-- **Powerful Backend**, with flexible API support
-- **Comprehensive Backoffice (BO)** for managing users, transactions, and game settings
-- **High security**, performance optimized
-- **Built with the latest web technologies**
-- **Fully built from scratch, not based on any pre-made templates**
+## 🛒 Purchase
 
-## 🛒 Purchase Source Code
-
-You can purchase this full source code on GitHub or contact me for more details.
+For full details and pricing, please contact me directly.
 
 📩 Contact: [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/snmtriet)
 
+---
+
 ## 📝 Note
 
-This is a complete source code package, including Frontend, Backend, and Backoffice. You only need to configure and deploy it for use.
+- This package includes **Frontend, Backend, and Backoffice**.  
+- Configuration and deployment are required before use.  
+- More details about features will be provided **upon request via Telegram**.
