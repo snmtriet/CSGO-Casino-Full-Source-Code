@@ -6,8 +6,8 @@
 
 ## 🚀 Overview
 
-A **fully developed CSGO Casino platform**, built completely from scratch — including **Frontend, Backend, and Admin Panel**.  
-The system is **modern, responsive, scalable**, and production-ready — the perfect foundation to launch your own **CSGO gambling** or **crypto casino** project.
+A **fully developed CSGO Casino platform**, built completely from scratch — including **Frontend, Backend**.  
+The system is **modern, responsive, scalable**, and production-ready — the perfect foundation to launch your own **CSGO gambling**.
 
 Whether you want to create a **skin betting site**, **CSGO case opening**, or **crypto casino**, this project provides everything you need to start fast and scale easily.
 
