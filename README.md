@@ -22,7 +22,6 @@ Whether you want to create a **skin betting site**, **CSGO case opening**, or **
 
 ## ⚙️ Key Features
 
-✅ Complete **Frontend + Backend**
 ✅ Built with **Vue 3* for a smooth, modern UI  
 ✅ Centralized **all-in-one management system**  
 ✅ Easy to **rebrand, customize, and scale**  
