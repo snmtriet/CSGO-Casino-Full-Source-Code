@@ -1,60 +1,31 @@
-# 🎰 CSGO Casino – Full Source Code (Frontend + Backend)
+# CSGO Casino - Full Source Code (Frontend & Backend)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Visitors&color=0e75b6&style=flat" alt="Visitors Badge" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=snmtriet&label=Visitors&color=0e75b6&style=flat" alt="snmtriet" /> </p>
 
-## 🚀 Overview
+### 🚀 Purchase a professional CSGO Casino website source code
 
-A **fully developed CSGO Casino platform**, built completely from scratch — including **Frontend, Backend**.  
-The system is **modern, responsive, scalable**, and production-ready — the perfect foundation to launch your own **CSGO gambling**.
+This is a **fully developed from scratch** source code, including Frontend, Backend, and Backoffice, for a modern and responsive CSGO Casino website. Inspired by major platforms like CSGOEmpire, this package is a perfect solution for your CSGO gambling project.
 
-Whether you want to create a **skin betting site**, **CSGO case opening**, or **crypto casino**, this project provides everything you need to start fast and scale easily.
+## 🔥 Key Features
 
----
+🎮 **Live Demo**
 
-## 🎮 Live Demos
+- [CSGO MT V1](https://csgomt.vercel.app)
+- [CSGO MT V2](https://csgo.website)
 
-- 🔹 **Version 1:** [CSGO MT v1](https://csgomt.vercel.app)  
-- 🔹 **Version 2:** [CSGO MT v2](https://csgo.website)  
+🚫 **No deposit and withdrawal system included (you can further develop these features as needed)**
 
----
+- **Stunning and modern UI**, fully responsive
+- **Smooth animations**, optimized UX/UI
+- **Fully integrated game modes** like Roulette, Case Battle, Case Opening, Coinflip and more
+- **Powerful Backend**, with flexible API support
+- **Comprehensive Backoffice (BO)** for managing users, transactions, and game settings
+- **High security**, performance optimized
+- **Built with the latest web technologies**
+- **Fully built from scratch, not based on any pre-made templates**
 
-## ⚙️ Key Features
+## 🛒 Purchase Source Code
 
-✅ Built with **Vue 3* for a smooth, modern UI  
-✅ Centralized **all-in-one management system**  
-✅ Easy to **rebrand, customize, and scale**  
-✅ Optimized for **performance, and security**  
-✅ Modular structure – simple to extend with **new games or jackpots**
+You can purchase this full source code on GitHub or contact me for more details.
 
-## 💸 Pricing
-
-> 💰 **Starting from $1,xxx USD**  
-> *(final price depends on version & requested customization)*
-
-You’ll receive:
-- Full source code (Frontend + Backend)
-- Deployment & setup guidance
-- Option to request custom games, jackpot mode, or design rebranding
-
----
-
-## 📩 Contact
-
-For full details, demo access, and purchase inquiries:
-
-[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram)](https://t.me/snmtriet)
-
----
-
-## 🧾 Notes
-
-- The package includes **Frontend, Backend**.  
-- Configuration and deployment are required before going live.  
-- Full technical documentation and feature list are available **upon request** via Telegram.
-
----
-
-> ⚡️ *Build your own CSGO or crypto casino platform today — complete, modern, and ready for launch.*
-
+📩 Contact: [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/snmtriet)
