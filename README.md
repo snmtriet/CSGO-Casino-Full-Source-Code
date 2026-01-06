@@ -14,13 +14,13 @@ For a limited time only, you can get the full source code including Frontend, Ba
 
 💎 Key Features
 
-Modern, fully responsive UI – works perfectly on all devices
-Smooth animations & optimized UX/UI
-Fully integrated game modes: Roulette, Case Battle, Case Opening, Coinflip, and more
-Powerful backend with flexible API support
-Comprehensive Admin Panel to manage users, transactions, and game settings
-High security & performance optimized
-Built from scratch with latest web technologies – no pre-made templates
+- Modern, fully responsive UI – works perfectly on all devices
+- Smooth animations & optimized UX/UI
+- Fully integrated game modes: Roulette, Case Battle, Case Opening, Coinflip, and more
+- Powerful backend with flexible API support
+- Comprehensive Admin Panel to manage users, transactions, and game settings
+- High security & performance optimized
+- Built from scratch with latest web technologies – no pre-made templates
 
 🛒 Grab it now before the sale ends!
 
