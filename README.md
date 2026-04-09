@@ -11,6 +11,7 @@ This is a **fully developed from scratch** source code, including Frontend, Back
 🎮 **Live Demo**
 
 - [CSGO MT](https://csgo.website)
+- [CSGO GEM](https://gem.csgo.website)
 
 🚫 **No deposit and withdrawal system included (you can further develop these features as needed)**
 
