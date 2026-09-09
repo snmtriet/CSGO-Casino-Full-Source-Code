@@ -10,8 +10,8 @@ This is a **fully developed from scratch** source code, including Frontend, Back
 
 🎮 **Live Demo**
 
-- [CSGO EMPIRE](https://empire.klerp.xyz)
-- [CSGO GEM](https://gem.klerp.xyz)
+- [CSGO EMPIRE](https://empire.snmtriet.cloud)
+- [CSGO GEM](https://gem.snmtriet.cloud)
 - [SKIN MT](https://skinmt.vercel.app) (Frontend only)
 
 🚫 **No deposit and withdrawal system included (you can further develop these features as needed)**
